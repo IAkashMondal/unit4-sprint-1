@@ -1,0 +1,12 @@
+.taskApp {
+  margin:auto;
+  width:25%;
+ border-top-left-radius: 5%;
+ border-top-right-radius: 5%;
+ border-bottom-right-radius: 5px;
+ border-bottom-left-radius: 5px;
+ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ line-height: 40px;
+
+ 
+}

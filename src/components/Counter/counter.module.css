@@ -1,0 +1,26 @@
+.counter {
+  margin-left: 30%;
+}.plus_button{
+  color: #fff;
+  background-color: #0073b4;
+  border-radius: 3px;
+  border: 0px;
+  font-size: larger;
+  font-weight: bold;
+}.minus_button{
+  color: #fff;
+  background-color: #0aab78;
+  border-radius: 3px;
+  border: 0px;
+  font-size: larger;
+  font-weight: bold;
+}.Display{
+  border:0.5px solid  #929292;
+  font-size: larger;
+  font-weight: bold;
+  margin: auto;
+  margin-left: 3px;
+  margin-right: 3px;
+  text-align: center;
+  
+}

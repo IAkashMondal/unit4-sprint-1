@@ -1,0 +1,21 @@
+.todoForm {
+ 
+  width:100%;
+  margin:auto;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #cfcfcf;
+
+}.input_text{
+  background: none;
+  border: transparent;
+  font-weight: bolder;
+  width: 90%;
+  margin-right: 0%;
+}.input_button{
+  background: none;
+  border: transparent;
+  font-weight: bolder;
+  font-size: 30px;
+  color: #0073b4;
+}
