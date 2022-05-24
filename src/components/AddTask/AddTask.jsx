@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import styles from "./addTask.module.css";
 
 const AddTask = ({userdata,setUserdata}) => {
@@ -8,6 +8,7 @@ const AddTask = ({userdata,setUserdata}) => {
   let inputValue=(e)=>{
     setInput(e.target.value)
   }
+
   let addData=({id})=>{
     // if(id !== id){
       userdata.push({id:Date.now(),text:input,done:true,count:1})

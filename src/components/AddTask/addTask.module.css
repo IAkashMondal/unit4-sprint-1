@@ -12,6 +12,7 @@
   font-weight: bolder;
   width: 90%;
   margin-right: 0%;
+  outline: none;
 }.input_button{
   background: none;
   border: transparent;

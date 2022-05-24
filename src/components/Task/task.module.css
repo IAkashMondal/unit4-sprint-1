@@ -11,3 +11,10 @@
   font-weight: bolder;
 
 }
+.Remove_button:hover{
+  color: red;
+  font-size: large;
+  background-color: black;
+  border: 0px;
+  border-radius: 50%;
+}
